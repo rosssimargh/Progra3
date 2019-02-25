@@ -1,0 +1,11 @@
+C:\Users\Estudiante\source\repos\OrdenamientoInsercion\OrdenamientoInsercion\obj\Debug\netcoreapp2.1\OrdenamientoInsercion.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\OrdenamientoInsercion\OrdenamientoInsercion\obj\Debug\netcoreapp2.1\OrdenamientoInsercion.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\OrdenamientoInsercion\OrdenamientoInsercion\obj\Debug\netcoreapp2.1\OrdenamientoInsercion.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\OrdenamientoInsercion\OrdenamientoInsercion\obj\Debug\netcoreapp2.1\OrdenamientoInsercion.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\OrdenamientoInsercion\OrdenamientoInsercion\bin\Debug\netcoreapp2.1\OrdenamientoInsercion.deps.json
+C:\Users\Estudiante\source\repos\OrdenamientoInsercion\OrdenamientoInsercion\bin\Debug\netcoreapp2.1\OrdenamientoInsercion.runtimeconfig.json
+C:\Users\Estudiante\source\repos\OrdenamientoInsercion\OrdenamientoInsercion\bin\Debug\netcoreapp2.1\OrdenamientoInsercion.runtimeconfig.dev.json
+C:\Users\Estudiante\source\repos\OrdenamientoInsercion\OrdenamientoInsercion\bin\Debug\netcoreapp2.1\OrdenamientoInsercion.dll
+C:\Users\Estudiante\source\repos\OrdenamientoInsercion\OrdenamientoInsercion\bin\Debug\netcoreapp2.1\OrdenamientoInsercion.pdb
+C:\Users\Estudiante\source\repos\OrdenamientoInsercion\OrdenamientoInsercion\obj\Debug\netcoreapp2.1\OrdenamientoInsercion.dll
+C:\Users\Estudiante\source\repos\OrdenamientoInsercion\OrdenamientoInsercion\obj\Debug\netcoreapp2.1\OrdenamientoInsercion.pdb

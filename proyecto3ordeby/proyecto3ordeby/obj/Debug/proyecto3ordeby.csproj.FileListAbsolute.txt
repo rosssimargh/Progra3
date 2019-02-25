@@ -1,7 +1,0 @@
-C:\Users\Estudiante\source\repos\proyecto3ordeby\proyecto3ordeby\bin\Debug\proyecto3ordeby.exe.config
-C:\Users\Estudiante\source\repos\proyecto3ordeby\proyecto3ordeby\bin\Debug\proyecto3ordeby.exe
-C:\Users\Estudiante\source\repos\proyecto3ordeby\proyecto3ordeby\bin\Debug\proyecto3ordeby.pdb
-C:\Users\Estudiante\source\repos\proyecto3ordeby\proyecto3ordeby\obj\Debug\proyecto3ordeby.csprojAssemblyReference.cache
-C:\Users\Estudiante\source\repos\proyecto3ordeby\proyecto3ordeby\obj\Debug\proyecto3ordeby.csproj.CoreCompileInputs.cache
-C:\Users\Estudiante\source\repos\proyecto3ordeby\proyecto3ordeby\obj\Debug\proyecto3ordeby.exe
-C:\Users\Estudiante\source\repos\proyecto3ordeby\proyecto3ordeby\obj\Debug\proyecto3ordeby.pdb
