@@ -1,0 +1,11 @@
+C:\Users\Estudiante\source\repos\Busquedabinaria\Busquedabinaria\bin\Debug\netcoreapp2.1\Busquedabinaria.deps.json
+C:\Users\Estudiante\source\repos\Busquedabinaria\Busquedabinaria\bin\Debug\netcoreapp2.1\Busquedabinaria.runtimeconfig.json
+C:\Users\Estudiante\source\repos\Busquedabinaria\Busquedabinaria\bin\Debug\netcoreapp2.1\Busquedabinaria.runtimeconfig.dev.json
+C:\Users\Estudiante\source\repos\Busquedabinaria\Busquedabinaria\bin\Debug\netcoreapp2.1\Busquedabinaria.dll
+C:\Users\Estudiante\source\repos\Busquedabinaria\Busquedabinaria\bin\Debug\netcoreapp2.1\Busquedabinaria.pdb
+C:\Users\Estudiante\source\repos\Busquedabinaria\Busquedabinaria\obj\Debug\netcoreapp2.1\Busquedabinaria.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\Busquedabinaria\Busquedabinaria\obj\Debug\netcoreapp2.1\Busquedabinaria.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Busquedabinaria\Busquedabinaria\obj\Debug\netcoreapp2.1\Busquedabinaria.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\Busquedabinaria\Busquedabinaria\obj\Debug\netcoreapp2.1\Busquedabinaria.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\Busquedabinaria\Busquedabinaria\obj\Debug\netcoreapp2.1\Busquedabinaria.dll
+C:\Users\Estudiante\source\repos\Busquedabinaria\Busquedabinaria\obj\Debug\netcoreapp2.1\Busquedabinaria.pdb

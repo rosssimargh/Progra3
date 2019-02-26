@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\Buquedadsimple\Buquedadsimple\bin\Debug\netcoreapp2.1\Buquedadsimple.deps.json
+C:\Users\Estudiante\source\repos\Buquedadsimple\Buquedadsimple\bin\Debug\netcoreapp2.1\Buquedadsimple.runtimeconfig.json
+C:\Users\Estudiante\source\repos\Buquedadsimple\Buquedadsimple\bin\Debug\netcoreapp2.1\Buquedadsimple.runtimeconfig.dev.json
+C:\Users\Estudiante\source\repos\Buquedadsimple\Buquedadsimple\bin\Debug\netcoreapp2.1\Buquedadsimple.dll
+C:\Users\Estudiante\source\repos\Buquedadsimple\Buquedadsimple\bin\Debug\netcoreapp2.1\Buquedadsimple.pdb
+C:\Users\Estudiante\source\repos\Buquedadsimple\Buquedadsimple\obj\Debug\netcoreapp2.1\Buquedadsimple.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Buquedadsimple\Buquedadsimple\obj\Debug\netcoreapp2.1\Buquedadsimple.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\Buquedadsimple\Buquedadsimple\obj\Debug\netcoreapp2.1\Buquedadsimple.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\Buquedadsimple\Buquedadsimple\obj\Debug\netcoreapp2.1\Buquedadsimple.dll
+C:\Users\Estudiante\source\repos\Buquedadsimple\Buquedadsimple\obj\Debug\netcoreapp2.1\Buquedadsimple.pdb
