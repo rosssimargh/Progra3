@@ -1,0 +1,11 @@
+C:\Users\Estudiante\source\repos\colacircular\colacircular\obj\Debug\netcoreapp2.1\colacircular.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\colacircular\colacircular\obj\Debug\netcoreapp2.1\colacircular.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\colacircular\colacircular\obj\Debug\netcoreapp2.1\colacircular.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\colacircular\colacircular\obj\Debug\netcoreapp2.1\colacircular.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\colacircular\colacircular\bin\Debug\netcoreapp2.1\colacircular.deps.json
+C:\Users\Estudiante\source\repos\colacircular\colacircular\bin\Debug\netcoreapp2.1\colacircular.runtimeconfig.json
+C:\Users\Estudiante\source\repos\colacircular\colacircular\bin\Debug\netcoreapp2.1\colacircular.runtimeconfig.dev.json
+C:\Users\Estudiante\source\repos\colacircular\colacircular\bin\Debug\netcoreapp2.1\colacircular.dll
+C:\Users\Estudiante\source\repos\colacircular\colacircular\bin\Debug\netcoreapp2.1\colacircular.pdb
+C:\Users\Estudiante\source\repos\colacircular\colacircular\obj\Debug\netcoreapp2.1\colacircular.dll
+C:\Users\Estudiante\source\repos\colacircular\colacircular\obj\Debug\netcoreapp2.1\colacircular.pdb
