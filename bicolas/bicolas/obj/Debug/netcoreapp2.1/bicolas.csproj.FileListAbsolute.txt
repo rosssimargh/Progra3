@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\bicolas\bicolas\bin\Debug\netcoreapp2.1\bicolas.deps.json
+C:\Users\Usuario\source\repos\bicolas\bicolas\bin\Debug\netcoreapp2.1\bicolas.runtimeconfig.json
+C:\Users\Usuario\source\repos\bicolas\bicolas\bin\Debug\netcoreapp2.1\bicolas.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\bicolas\bicolas\bin\Debug\netcoreapp2.1\bicolas.dll
+C:\Users\Usuario\source\repos\bicolas\bicolas\bin\Debug\netcoreapp2.1\bicolas.pdb
+C:\Users\Usuario\source\repos\bicolas\bicolas\obj\Debug\netcoreapp2.1\bicolas.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\bicolas\bicolas\obj\Debug\netcoreapp2.1\bicolas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\bicolas\bicolas\obj\Debug\netcoreapp2.1\bicolas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\bicolas\bicolas\obj\Debug\netcoreapp2.1\bicolas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\bicolas\bicolas\obj\Debug\netcoreapp2.1\bicolas.dll
+C:\Users\Usuario\source\repos\bicolas\bicolas\obj\Debug\netcoreapp2.1\bicolas.pdb
