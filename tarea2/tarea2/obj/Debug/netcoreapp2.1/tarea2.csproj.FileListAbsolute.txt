@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\tarea2\tarea2\bin\Debug\netcoreapp2.1\tarea2.deps.json
+C:\Users\Usuario\source\repos\tarea2\tarea2\bin\Debug\netcoreapp2.1\tarea2.runtimeconfig.json
+C:\Users\Usuario\source\repos\tarea2\tarea2\bin\Debug\netcoreapp2.1\tarea2.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\tarea2\tarea2\bin\Debug\netcoreapp2.1\tarea2.dll
+C:\Users\Usuario\source\repos\tarea2\tarea2\bin\Debug\netcoreapp2.1\tarea2.pdb
+C:\Users\Usuario\source\repos\tarea2\tarea2\obj\Debug\netcoreapp2.1\tarea2.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\tarea2\tarea2\obj\Debug\netcoreapp2.1\tarea2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\tarea2\tarea2\obj\Debug\netcoreapp2.1\tarea2.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\tarea2\tarea2\obj\Debug\netcoreapp2.1\tarea2.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\tarea2\tarea2\obj\Debug\netcoreapp2.1\tarea2.dll
+C:\Users\Usuario\source\repos\tarea2\tarea2\obj\Debug\netcoreapp2.1\tarea2.pdb
