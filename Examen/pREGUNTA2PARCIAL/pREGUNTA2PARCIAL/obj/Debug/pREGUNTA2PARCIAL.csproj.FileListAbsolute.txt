@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\pREGUNTA2PARCIAL\pREGUNTA2PARCIAL\obj\Debug\pREGUNTA2PARCIAL.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\pREGUNTA2PARCIAL\pREGUNTA2PARCIAL\obj\Debug\pREGUNTA2PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\pREGUNTA2PARCIAL\pREGUNTA2PARCIAL\bin\Debug\pREGUNTA2PARCIAL.exe.config
+C:\Users\Estudiante\source\repos\pREGUNTA2PARCIAL\pREGUNTA2PARCIAL\bin\Debug\pREGUNTA2PARCIAL.exe
+C:\Users\Estudiante\source\repos\pREGUNTA2PARCIAL\pREGUNTA2PARCIAL\bin\Debug\pREGUNTA2PARCIAL.pdb
+C:\Users\Estudiante\source\repos\pREGUNTA2PARCIAL\pREGUNTA2PARCIAL\obj\Debug\pREGUNTA2PARCIAL.exe
+C:\Users\Estudiante\source\repos\pREGUNTA2PARCIAL\pREGUNTA2PARCIAL\obj\Debug\pREGUNTA2PARCIAL.pdb
