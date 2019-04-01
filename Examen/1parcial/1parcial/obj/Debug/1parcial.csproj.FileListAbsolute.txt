@@ -5,3 +5,10 @@ C:\Users\Estudiante\source\repos\1parcial\1parcial\bin\Debug\1parcial.exe
 C:\Users\Estudiante\source\repos\1parcial\1parcial\bin\Debug\1parcial.pdb
 C:\Users\Estudiante\source\repos\1parcial\1parcial\obj\Debug\1parcial.exe
 C:\Users\Estudiante\source\repos\1parcial\1parcial\obj\Debug\1parcial.pdb
+C:\Users\Estudiante\Progra3\Examen\1parcial\1parcial\bin\Debug\1parcial.exe.config
+C:\Users\Estudiante\Progra3\Examen\1parcial\1parcial\bin\Debug\1parcial.exe
+C:\Users\Estudiante\Progra3\Examen\1parcial\1parcial\bin\Debug\1parcial.pdb
+C:\Users\Estudiante\Progra3\Examen\1parcial\1parcial\obj\Debug\1parcial.csprojAssemblyReference.cache
+C:\Users\Estudiante\Progra3\Examen\1parcial\1parcial\obj\Debug\1parcial.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Progra3\Examen\1parcial\1parcial\obj\Debug\1parcial.exe
+C:\Users\Estudiante\Progra3\Examen\1parcial\1parcial\obj\Debug\1parcial.pdb

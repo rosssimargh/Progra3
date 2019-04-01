@@ -56,7 +56,7 @@ namespace _1parcial
                         Console.Write("Carrera: ");
                         c = Console.ReadLine();
                         DC = new Docente(a, e, s, c);
-                        x = int.Parse(Console.ReadLine());
+                      
                         p.InsertarDelante(DC);
                         break;
                     case 3:

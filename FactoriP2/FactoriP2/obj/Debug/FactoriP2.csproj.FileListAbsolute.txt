@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\FactoriP2\FactoriP2\bin\Debug\FactoriP2.exe.config
+C:\Users\Estudiante\source\repos\FactoriP2\FactoriP2\bin\Debug\FactoriP2.exe
+C:\Users\Estudiante\source\repos\FactoriP2\FactoriP2\bin\Debug\FactoriP2.pdb
+C:\Users\Estudiante\source\repos\FactoriP2\FactoriP2\obj\Debug\FactoriP2.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\FactoriP2\FactoriP2\obj\Debug\FactoriP2.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\FactoriP2\FactoriP2\obj\Debug\FactoriP2.exe
+C:\Users\Estudiante\source\repos\FactoriP2\FactoriP2\obj\Debug\FactoriP2.pdb
