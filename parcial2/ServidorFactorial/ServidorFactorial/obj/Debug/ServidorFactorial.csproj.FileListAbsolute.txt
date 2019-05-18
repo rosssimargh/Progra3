@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\ServidorFactorial\ServidorFactorial\bin\Debug\ServidorFactorial.exe.config
+C:\Users\Estudiante\source\repos\ServidorFactorial\ServidorFactorial\bin\Debug\ServidorFactorial.exe
+C:\Users\Estudiante\source\repos\ServidorFactorial\ServidorFactorial\bin\Debug\ServidorFactorial.pdb
+C:\Users\Estudiante\source\repos\ServidorFactorial\ServidorFactorial\obj\Debug\ServidorFactorial.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\ServidorFactorial\ServidorFactorial\obj\Debug\ServidorFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\ServidorFactorial\ServidorFactorial\obj\Debug\ServidorFactorial.exe
+C:\Users\Estudiante\source\repos\ServidorFactorial\ServidorFactorial\obj\Debug\ServidorFactorial.pdb

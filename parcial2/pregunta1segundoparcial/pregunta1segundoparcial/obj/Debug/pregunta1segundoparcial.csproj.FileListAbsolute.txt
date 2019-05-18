@@ -1,0 +1,9 @@
+C:\Users\Estudiante\source\repos\pregunta1segundoparcial\pregunta1segundoparcial\bin\Debug\pregunta1segundoparcial.exe.config
+C:\Users\Estudiante\source\repos\pregunta1segundoparcial\pregunta1segundoparcial\bin\Debug\pregunta1segundoparcial.exe
+C:\Users\Estudiante\source\repos\pregunta1segundoparcial\pregunta1segundoparcial\bin\Debug\pregunta1segundoparcial.pdb
+C:\Users\Estudiante\source\repos\pregunta1segundoparcial\pregunta1segundoparcial\obj\Debug\pregunta1segundoparcial.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\pregunta1segundoparcial\pregunta1segundoparcial\obj\Debug\pregunta1segundoparcial.Form1.resources
+C:\Users\Estudiante\source\repos\pregunta1segundoparcial\pregunta1segundoparcial\obj\Debug\pregunta1segundoparcial.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\pregunta1segundoparcial\pregunta1segundoparcial\obj\Debug\pregunta1segundoparcial.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\pregunta1segundoparcial\pregunta1segundoparcial\obj\Debug\pregunta1segundoparcial.exe
+C:\Users\Estudiante\source\repos\pregunta1segundoparcial\pregunta1segundoparcial\obj\Debug\pregunta1segundoparcial.pdb
