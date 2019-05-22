@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\OPVectores\OPVectores\bin\Debug\OPVectores.exe.config
+C:\Users\Estudiante\source\repos\OPVectores\OPVectores\bin\Debug\OPVectores.exe
+C:\Users\Estudiante\source\repos\OPVectores\OPVectores\bin\Debug\OPVectores.pdb
+C:\Users\Estudiante\source\repos\OPVectores\OPVectores\obj\Debug\OPVectores.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\OPVectores\OPVectores\obj\Debug\OPVectores.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\OPVectores\OPVectores\obj\Debug\OPVectores.exe
+C:\Users\Estudiante\source\repos\OPVectores\OPVectores\obj\Debug\OPVectores.pdb
