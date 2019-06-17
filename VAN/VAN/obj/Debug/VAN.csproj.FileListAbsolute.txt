@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\VAN\VAN\bin\Debug\VAN.exe.config
+C:\Users\Estudiante\source\repos\VAN\VAN\bin\Debug\VAN.exe
+C:\Users\Estudiante\source\repos\VAN\VAN\bin\Debug\VAN.pdb
+C:\Users\Estudiante\source\repos\VAN\VAN\obj\Debug\VAN.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\VAN\VAN\obj\Debug\VAN.Form1.resources
+C:\Users\Estudiante\source\repos\VAN\VAN\obj\Debug\VAN.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\VAN\VAN\obj\Debug\VAN.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\VAN\VAN\obj\Debug\VAN.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\VAN\VAN\obj\Debug\VAN.exe
+C:\Users\Estudiante\source\repos\VAN\VAN\obj\Debug\VAN.pdb

@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\parcial3\parcial3\bin\Debug\parcial3.exe.config
+C:\Users\Estudiante\source\repos\parcial3\parcial3\bin\Debug\parcial3.exe
+C:\Users\Estudiante\source\repos\parcial3\parcial3\bin\Debug\parcial3.pdb
+C:\Users\Estudiante\source\repos\parcial3\parcial3\obj\Debug\parcial3.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\parcial3\parcial3\obj\Debug\parcial3.Form1.resources
+C:\Users\Estudiante\source\repos\parcial3\parcial3\obj\Debug\parcial3.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\parcial3\parcial3\obj\Debug\parcial3.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\parcial3\parcial3\obj\Debug\parcial3.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\parcial3\parcial3\obj\Debug\parcial3.exe
+C:\Users\Estudiante\source\repos\parcial3\parcial3\obj\Debug\parcial3.pdb

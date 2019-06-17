@@ -1,0 +1,11 @@
+C:\Users\Estudiante\source\repos\MateFinanciera\MateFinanciera\bin\Debug\netcoreapp2.1\MateFinanciera.deps.json
+C:\Users\Estudiante\source\repos\MateFinanciera\MateFinanciera\bin\Debug\netcoreapp2.1\MateFinanciera.runtimeconfig.json
+C:\Users\Estudiante\source\repos\MateFinanciera\MateFinanciera\bin\Debug\netcoreapp2.1\MateFinanciera.runtimeconfig.dev.json
+C:\Users\Estudiante\source\repos\MateFinanciera\MateFinanciera\bin\Debug\netcoreapp2.1\MateFinanciera.dll
+C:\Users\Estudiante\source\repos\MateFinanciera\MateFinanciera\bin\Debug\netcoreapp2.1\MateFinanciera.pdb
+C:\Users\Estudiante\source\repos\MateFinanciera\MateFinanciera\obj\Debug\netcoreapp2.1\MateFinanciera.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\MateFinanciera\MateFinanciera\obj\Debug\netcoreapp2.1\MateFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\MateFinanciera\MateFinanciera\obj\Debug\netcoreapp2.1\MateFinanciera.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\MateFinanciera\MateFinanciera\obj\Debug\netcoreapp2.1\MateFinanciera.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\MateFinanciera\MateFinanciera\obj\Debug\netcoreapp2.1\MateFinanciera.dll
+C:\Users\Estudiante\source\repos\MateFinanciera\MateFinanciera\obj\Debug\netcoreapp2.1\MateFinanciera.pdb
